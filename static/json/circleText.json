@@ -1,0 +1,145 @@
+{
+    "total": "7",
+    "sort": "id",
+    "order": "desc",
+    "allCommentTotal": 7,
+    "beginIndex": 0,
+    "allCommentList": [
+        {
+            "content": "我是饿呢都是的你经常你还是充多少送地暖的，督大的基电脑丢才能。",
+            "id": 23,
+            "user_name": "13301001234",
+            "replyList": [],
+            "goodCount": 0,
+            "floor": 1,
+            "create_time": "2015-04-22 09:22:58",
+            "goodStatus": 0,
+            "followType": 2,
+            "userType": 1
+        },
+        {
+            "content": "如而不时都可山东济南了诶诶，度曾经的多少度额外的呢我额为奴为文认为既我卫计委二位五我饿恩恩顾问几句就第五大道。",
+            "id": 22,
+            "user_name": "二姐二姐",
+            "replyList": [],
+            "goodCount": 0,
+            "floor": 2,
+            "create_time": "2015-04-22 09:22:45",
+            "goodStatus": 0,
+            "followType": 2,
+            "userType": 3
+        },
+        {
+            "content": "ad三本吧苦大仇深你吃啥社交恐惧参数的此电脑老师的九年级，电脑卡积少成多接口大二手房库付款方式达到色色色两回事打电话发生的。",
+            "id": 18,
+            "user_name": "我是谁",
+            "replyList": [
+                {
+                    "content": "whatwhowhose",
+                    "id": 22,
+                    "user_name": "13301002469",
+                    "replyFloor": 1,
+                    "create_time": "2015-04-22 09:22:45"
+                },
+                {
+                    "content": "12312313",
+                    "id": 23,
+                    "user_name": "13301001234",
+                    "replyFloor": 2,
+                    "create_time": "2015-04-22 09:22:58"
+                }
+            ],
+            "goodCount": 0,
+            "floor": 3,
+            "create_time": "2015-04-21 13:57:05",
+            "goodStatus": 0,
+            "followType": 1,
+            "userType": 1
+        },
+        {
+            "content": "今天发生了什么？我去那几家的时候，多少时间二维接我呢，都很都很但是丹姐？",
+            "id": 17,
+            "user_name": "惊声尖叫",
+            "replyList": [],
+            "goodCount": 3,
+            "floor": 4,
+            "create_time": "2015-04-20 10:31:55",
+            "goodStatus": 0,
+            "followType": 1,
+            "userType": 2
+        },
+        {
+            "content": "问我电脑才能不到位奶奶都穿家居车吧，还不伺候充电宝回到本行 纯牛奶女女错不多不或多火车认为可靠。",
+            "id": 16,
+            "user_name": "我问问看",
+            "replyList": [],
+            "goodCount": 0,
+            "floor": 5,
+            "create_time": "2015-04-17 11:01:27",
+            "goodStatus": 0,
+            "followType": 2,
+            "userType": 2
+        },
+        {
+            "content": "热uUR嗯呢热热我我哦借我嫩的分局我委屈哦哦千万。",
+            "id": 15,
+            "user_name": "呜呜呜",
+            "replyList": [],
+            "goodCount": 0,
+            "floor": 6,
+            "create_time": "2015-04-17 10:59:19",
+            "goodStatus": 0,
+            "followType": 2,
+            "userType": 2
+        },
+        {
+            "content": "汪倩很IEu了如何飞奔而不发不发好吃脑残脑残脑残那你几点睡IDUIu呜呜呜呜我九点四十昏昏沉沉",
+            "id": 12,
+            "user_name": "13301001234",
+            "replyList": [
+                {
+                    "content": "额服务器很气愤热防化服发红包方便舞蝶玩哦uu诶。为u了吴文 ",
+                    "id": 15,
+                    "user_name": "13301002469",
+                    "replyFloor": 1,
+                    "create_time": "2015-04-17 10:59:19"
+                },
+                {
+                    "content": "热UR鳄鱼二爷燃气表日本蝴蝶花合并报表都很都很 寄的时候是都很都很和红薯的华氏度合适的话的",
+                    "id": 16,
+                    "user_name": "13301002469",
+                    "replyFloor": 2,
+                    "create_time": "2015-04-17 11:01:27"
+                }
+            ],
+            "goodCount": 1,
+            "floor": 7,
+            "create_time": "2015-04-17 10:31:55",
+            "goodStatus": 0,
+            "followType": 1,
+            "userType": 1
+        }
+    ],
+    "circleConent": {
+        "img1": "1",
+        "publish_place": "shangdiqijie",
+        "badCount": 0,
+        "voice_url": "sdf",
+        "id": 5,
+        "content": "tyu,jm",
+        "user_name": "1330100462",
+        "good_count": 0,
+        "publish_time": "2015-04-23 11:59:14",
+        "goodStatus": 0,
+        "img7": "7",
+        "user_id": 9,
+        "img8": "8",
+        "img5": "5",
+        "img6": "6",
+        "img3": "3",
+        "img4": "4"
+    },
+    "msg": "",
+    "success": true,
+    "resultSize": 20
+}
